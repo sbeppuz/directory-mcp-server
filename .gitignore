@@ -1,0 +1,5 @@
+.venv/
+.wheels/
+logs/
+__pycache__/
+*.pyc

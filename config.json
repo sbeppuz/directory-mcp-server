@@ -1,0 +1,8 @@
+{
+  "server_name": "Golf Course Directory",
+  "csv_path": "data/golf_courses_uk_ireland.csv",
+  "hidden_columns": [],
+  "search_columns": ["name", "city", "county", "postcode", "operator", "region"],
+  "max_rows": 50,
+  "audit_log": "logs/audit.jsonl"
+}
